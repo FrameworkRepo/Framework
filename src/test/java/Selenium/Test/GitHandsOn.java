@@ -6,7 +6,7 @@ public class GitHandsOn {
 	
 	@Test
 	public void gitHandsOn(){
-		System.out.println("Hi");
+		System.out.println("Hello");
 	}
 
 }
