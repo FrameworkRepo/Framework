@@ -41,6 +41,8 @@ public class errorValidationTest extends baseTest {
 		Assert.assertTrue(error.equals("Incorrect email or passwod"));
 		
 		System.out.println("Added this line from downloaded and made changes");
+		System.out.println("Added this line from downloaded and made changes1");
+		System.out.println("Added this line from downloaded and made changes2");
 		
 		Thread.sleep(3000);
 	}
