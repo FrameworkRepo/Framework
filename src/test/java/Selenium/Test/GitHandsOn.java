@@ -8,7 +8,7 @@ public class GitHandsOn {
 	public void gitHandsOn(){
 		System.out.println("Hello");
 		
-		System.out.println("GitHandsOn");
+		System.out.println("GitX");
 
 	}
 
