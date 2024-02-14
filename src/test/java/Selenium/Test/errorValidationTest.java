@@ -40,6 +40,8 @@ public class errorValidationTest extends baseTest {
 		
 		Assert.assertTrue(error.equals("Incorrect email or passwod"));
 		
+		System.out.println("Added this line from downloaded and made changes");
+		
 		Thread.sleep(3000);
 	}
 
